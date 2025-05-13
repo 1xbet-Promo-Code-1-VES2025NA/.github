@@ -4,9 +4,9 @@
 
 <div align="center">
   <pre>
-  <code>
-  ▶️ <b><a href="#installation">УСТАНОВКА</a></b> ◀️
-  </code>
+  📂 <b>НАЧАТЬ РАБОТУ:</b>
+  
+  <code>npm i && npm start</code>
   </pre>
 </div>
 
