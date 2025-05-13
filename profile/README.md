@@ -4,10 +4,9 @@
 
 <div align="center">
   <pre>
-  $ git clone https://github.com/username/repo.git
-  $ <b>cd repo && npm install</b>
-  <i>Запустить проект ↓</i>
-  $ <b>npm run start</b> ▋
+  <code>
+  ▶️ <b><a href="#installation">УСТАНОВКА</a></b> ◀️
+  </code>
   </pre>
 </div>
 
