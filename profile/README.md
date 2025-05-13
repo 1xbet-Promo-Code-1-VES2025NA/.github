@@ -3,7 +3,9 @@
 ## Understanding the 1xBet Casino Withdrawal Process
 
 <p align="center">
-  <a href="https://ваша-ссылка.com" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Нажмите здесь</a>
+  <a href="https://ваша-ссылка.com" title="Нажмите для перехода">
+    <img src="https://img.shields.io/badge/Нажмите_здесь-0366d6?style=for-the-badge&logoColor=white&labelColor=0366d6" width="400" />
+  </a>
 </p>
 
 
