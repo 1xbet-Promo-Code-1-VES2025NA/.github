@@ -3,7 +3,9 @@
 ## Understanding the 1xBet Casino Withdrawal Process
 
 <p align="center">
-  <kbd><b>👉 <a href="#section">НАЖМИТЕ ЗДЕСЬ</a> 👈</b></kbd>
+  <kbd style="font-size: 24px; padding: 20px; display: inline-block;">
+    <b>👉 <a href="#section" style="font-size: 36px; text-decoration: none;">НАЖМИТЕ ЗДЕСЬ</a> 👈</b>
+  </kbd>
 </p>
 
 
