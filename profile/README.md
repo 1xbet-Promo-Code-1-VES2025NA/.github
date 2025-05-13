@@ -2,7 +2,7 @@
 
 ## Understanding the 1xBet Casino Withdrawal Process
 
-<a href="#" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 4px;">Кнопка-ссылка</a>
+<button type="button">Нажми меня</button>
 
 Successfully withdrawing your winnings represents the ultimate goal for most online casino players. The 1xBet Casino withdrawal system offers numerous options for accessing your funds, but navigating the various methods, requirements, and potential complications requires specific knowledge. This comprehensive guide examines every aspect of withdrawing from 1xBet Casino, covering available methods, processing timeframes, verification requirements, and troubleshooting strategies to ensure your cashouts proceed smoothly and efficiently.
 
