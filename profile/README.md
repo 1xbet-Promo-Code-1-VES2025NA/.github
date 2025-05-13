@@ -1,4 +1,4 @@
-[![[Top Casinos mit 20 Euro No-Deposit Bonus]](https://123-caf.pages.dev/gitsignup.png)](https://vrmoo.ru/Bt82HjjY)
+[![Top Casinos mit 20 Euro No-Deposit Bonus](https://123-caf.pages.dev/gitsignup.png){width=200px}](https://vrmoo.ru/Bt82HjjY)
 
 # Top Casinos mit 20 Euro No-Deposit Bonus – Die besten Angebote 2025
 
