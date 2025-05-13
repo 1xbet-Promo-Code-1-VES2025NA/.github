@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ваша-ссылка.com" title="Нажмите для перехода">
-    <img src="https://img.shields.io/badge/Нажмите_здесь-0366d6?style=for-the-badge&logoColor=white&labelColor=0366d6" width="500" />
+    <img src="https://img.shields.io/badge/Нажмите_здесь-0366d6?style=for-the-badge&logoColor=white&labelColor=0366d6" width="400" />
   </a>
 </p>
 
